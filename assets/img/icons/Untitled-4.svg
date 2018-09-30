@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="60" viewBox="0 0 500 60">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 70px;
+        fill: #272727;
+        font-family: "Adobe Garamond Pro";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Alvaro_Robledo" data-name="Alvaro Robledo" class="cls-1" x="29.25" y="54.25">Alvaro Robledo</text>
+</svg>

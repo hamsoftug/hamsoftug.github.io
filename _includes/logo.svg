@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 750px;
+        font-family: "Adobe Garamond Pro";
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #272727;
+      }
+    </style>
+  </defs>
+  <text id="AR" class="cls-1" transform="translate(112.856 751) scale(0.8 1)">AR</text>
+  <rect class="cls-2" y="950" width="1000" height="50"/>
+  <rect class="cls-2" width="50" height="1000"/>
+  <rect class="cls-2" x="950" width="50" height="1000"/>
+  <rect class="cls-2" width="1000" height="50"/>
+</svg>
