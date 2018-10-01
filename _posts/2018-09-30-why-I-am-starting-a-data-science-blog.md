@@ -2,12 +2,13 @@
 layout: post
 title: Why I am starting a data science blog
 featured-img: data-science
+summary: Hey there! I'm Alvaro Robledo, a very data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I'm very interested in data science and machine learning. Read more to find out!
 categories: [Introduction]
 ---
 
 ## Hey there!
 
-I'll introduce myself first. I'm Alvaro Robledo, a very data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I come from Spain, although I've lived in Canada and the UK for several years.
+I'm Alvaro Robledo, a very data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I come from Spain, although I've lived in Canada and the UK for several years.
 
 ## I am starting a blog
 
