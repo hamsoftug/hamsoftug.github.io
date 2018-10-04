@@ -29,7 +29,7 @@ tagline: >
 
 blog_title: Blog
 blog_tagline: >
-  Welcome to my little corner of the Web. This blog is mainly just a jumble of my thoughts and interests.
+  Welcome to my little corner of the Web. This blog is mainly just a jumble of my thoughts and interests, with a focus on data science.
 
 home_hero_img: home/background.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 blog_hero_img: blog/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg

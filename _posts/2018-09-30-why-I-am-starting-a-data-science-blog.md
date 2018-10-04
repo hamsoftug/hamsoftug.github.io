@@ -2,21 +2,19 @@
 layout: post
 title: Why I am starting a data science blog
 featured-img: data-science
-summary: Hey there! I'm Alvaro Robledo, a very data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I'm very interested in data science and machine learning. Read more to find out!
+summary: Hey there! I'm Alvaro Robledo, a data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I'm very interested in data science and machine learning. Read more to find out!
 categories: [Introduction]
 ---
 
 ## Hey there!
 
-I'm Alvaro Robledo, a very data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I come from Spain, although I've lived in Canada and the UK for several years.
+I'm Alvaro Robledo, a data driven individual, currently studying Electrical & Electronic Engineering with Management at Imperial College London. I come from Spain, although I've lived in Canada and the UK for several years.
 
 ## I am starting a blog
 
-That's what seems to be hapening, indeed.
+I'm very passionate about data science and machine learning, and one of my mid-term goals in life is finding myself in a position where I can *use data science* to make *regular contributions* which have *a real impact* in the world.
 
-Jokes aside, I'm very passionate about data science and machine learning, and one of my mid-term goals in life is finding myself in a position where I can *use data science* to make *regular contributions* which have *a real impact* in the world.
-
-While starting this blog is *probably not* going to give me that (I don't expect more than a handful of people to read this), it definitely is **one step forward** in that direction (actual reasons below).
+While starting this blog is *probably not* going to give me that (I certainly don't expect more than a handful of people to read this), it definitely is **one step forward** in that direction (actual reasons below).
 
 ## What this blog is
 
@@ -24,13 +22,13 @@ An amalgam of my interests, views and thoughts, but always from a data science p
 
 1. **To help me learn**: one thing is learning a concept, and another very different thing is being able to explain it to someone else.
 
-	This has even been [backed up by science](http://ideas.time.com/2011/11/30/the-protege-effect/).
+	This has even been [backed up by science](http://ideas.time.com/2011/11/30/the-protege-effect/)!.
 
 	![Albert Einstein never lies - quote](/assets/img/posts/einstein-quote.jpg "Albert Einstain never lies")
 
-	Hopefully, by forcing myself not only to learn about a new concept, but also to write a post about it, I will become a better data scientist.
+	Hopefully, by forcing myself not only to learn about a new concept, but also to write a post about it, I will become a better and more well-rounded data scientist.
 
-2. **To help others learn**: there would be no point in me writing all of this down to just keep it to myself. From my point of view, even if there was only 1 person who will ever benefit from the contents of this blog, the effort is worth it.
+2. **To help others learn**: there would be no point in me writing all of this down to just keep it to myself. It takes relatively little effort to make this blog public, and, from my point of view, even if there was only one person who will ever benefit from its content, the effort is worth it.
 
 ## What this blog isn't
 
