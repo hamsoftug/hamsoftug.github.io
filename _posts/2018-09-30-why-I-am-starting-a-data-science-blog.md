@@ -24,7 +24,7 @@ An amalgam of my interests, views and thoughts, but always from a data science p
 
 	This has even been [backed up by science](http://ideas.time.com/2011/11/30/the-protege-effect/)!.
 
-	![Albert Einstein never lies - quote](/assets/img/posts/einstein-quote.jpg "Albert Einstain never lies")
+	![Albert Einstein never lies - quote](https://alvarorobledo.com/assets/img/posts_contents/einstein-quote.jpg "Albert Einstain never lies")
 
 	Hopefully, by forcing myself not only to learn about a new concept, but also to write a post about it, I will become a better and more well-rounded data scientist.
 
@@ -48,4 +48,4 @@ Expect this blog to be a nice read for when you're bored and you want to learn s
 
 Of course, feedback and constructive criticism are always welcome. Feel free to comment below, or [reach out to me](https://alvarorobledo.com/contact "Contact Me"). Until then!
 
-![That's all folks - looney tunes](/assets/img/posts/thats-all-folks.jpg "That's all folks!")
+![That's all folks - looney tunes](https://alvarorobledo.com/assets/img/posts_contents/thats-all-folks.jpg "That's all folks!")
