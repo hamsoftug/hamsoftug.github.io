@@ -1,8 +1,8 @@
 title: Alvaro Robledo
 author: Alvaro Robledo Vega
 description: > # Meta description of Homepage
-  Hey there! My name is Alvaro Robledo. I study at Imperial College London. I'm interested in machine learning and start-ups.
-  You can find out more about me or read my blog, where I talk about my projects and thoughts.
+  Hey there! My name is Alvaro Robledo. I study at Imperial College London. I'm interested in data science, machine learning and start-ups.
+  You can find out more about me or read my data science blog here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alvarorobledo.com" # the base hostname & protocol for your site, e.g. http://example.com
 
