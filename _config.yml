@@ -36,11 +36,12 @@ blog_hero_img: blog/background.jpg # Main background image: use the path from /a
 
 email: alvarobledo@gmail.com # email for form submission
 
-# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+# twitter_username: tw_username # replace with your_twitter_username or comment to remove link from footer
 github_username:  alvarorobledo # replace with your_github_username or comment to remove link from footer
 instagram_username: alvarorobledo_ # replace with your_instagram_username or comment to remove link from footer
 linkedin_username: alvaro-robledo
 medium_username: alvarorobledo
+kaggle_username: alvarobledo
 
 disqus:
   shortname: alvarorobledo # to enable comments replace with your_disqus_shortname
