@@ -1210,7 +1210,7 @@ plot_features_containing('odor')
 ```
 
 
-![Mushrooms by odor - graph](https://alvarorobledo.com/assets/img/posts_contents/mushrooms-by-odor.png "Mushrooms by odor - graph")
+![Mushrooms by odor - graph](https://blog.hamsoftug.com/assets/img/posts_contents/mushrooms-by-odor.png "Mushrooms by odor - graph")
 
 
 odor: almond=a,anise=l,creosote=c,fishy=y,foul=f,musty=m,none=n,pungent=p,spicy=s
@@ -1228,7 +1228,7 @@ plot_features_containing('spore-print-color')
 ```
 
 
-![Mushrooms by spore print color - graph](https://alvarorobledo.com/assets/img/posts_contents/mushrooms-by-spore-print-color.png "Mushrooms by spore print color - graph")
+![Mushrooms by spore print color - graph](https://blog.hamsoftug.com/assets/img/posts_contents/mushrooms-by-spore-print-color.png "Mushrooms by spore print color - graph")
 
 For _spore-print-color_ we have quite a similar picture, although perhaps not as extreme as with _odor_. This is what we expected, since these are the 2 features with the highest coefficients in our logistic regression.
 
@@ -1242,7 +1242,7 @@ plot_features_containing('cap-color')
 ```
 
 
-![Mushrooms by cap color - graph](https://alvarorobledo.com/assets/img/posts_contents/mushrooms-by-cap-color.png "Mushrooms by cap color - graph")
+![Mushrooms by cap color - graph](https://blog.hamsoftug.com/assets/img/posts_contents/mushrooms-by-cap-color.png "Mushrooms by cap color - graph")
 
 
 Indeed, we see a much more balanced distribution, which suggests that cap-color does not play such an important role in determining the edibility of a mushroom.
