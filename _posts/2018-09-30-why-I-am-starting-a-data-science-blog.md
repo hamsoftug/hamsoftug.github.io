@@ -42,7 +42,7 @@ It's 2018, and there are definitely other tools which cover that already (*did a
 
 This blog is (at least as of today) hosted alongside the rest of my personal website on [Github Pages](https://pages.github.com/). It uses [Jekyll](https://jekyllrb.com/) for simplicity when writing new posts.
 
-I have made the repository public and open-source. You can check it out over [here](https://github.com/alvarorobledo/blog.hamsoftug.com).
+
 
 ## Wrapping it up
 
