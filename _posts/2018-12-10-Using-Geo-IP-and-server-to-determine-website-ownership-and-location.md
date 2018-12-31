@@ -2,9 +2,8 @@
 layout: post
 title: Geo IP & Server (Dns lookups,whois ,Network tools)
 featured-img: geo-ip
-summary: # Displays the DNS information critical for identifying who is hosting a particular domain name or website.
-Determine the IP address of the primary domain (A record) !
-categories: [Technology, Android ,Networks]
+summary: # Displays the DNS information critical for identifying who is hosting a particular domain name or website .
+categories: [Technology,Android,Networks]
 ---
 
 Geo IP & Server is a complete geocoding solution and one of the most popular IP to geolocation apps, its a Must have tool for every web developer and network Admin to help with your research on websites or IP's, it will help you to:-
@@ -44,7 +43,7 @@ Reverse geocoding (finding a street address based on given coordinates) and dist
 It's as simple as typing a website or IP address on your phone, and then you will be able to see its details.
 ![](https://blog.hamsoftug.com/assets/img/posts_contents/2.png)
 
-******** Protocols we use.*****
+***** Protocols we use.*****
 -- Network Time Protocol (NTP)
 -- PPP (Point-to-Point Protocol)
 -- Server Message Block Protocol (SMB protocol)
