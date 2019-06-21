@@ -18,11 +18,10 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/blog'}
-  - {name: 'About me', link: '/about-me'}
   - {name: 'Blog', link: '/blog'}
   - {name: 'Contact', link: '/contact'}
 
-home_title: Hi! Nancy here ,Welcome aboard
+home_title: Hi! there ,Welcome aboard
 tagline: >
   I'm excited to have you here , kindly click on the blog link to get started  learning from topics written by our experienced colleagues .
 
