@@ -18,7 +18,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/blog'}
-  - {name: 'Blog', link: '/blog'}
+  - {name: 'Blog', link: '/news'}
   - {name: 'Contact', link: '/contact'}
 
 home_title: Hi! there ,Welcome aboard
@@ -30,7 +30,7 @@ blog_tagline: >
    This blog is mainly focused on the day to day discoveries at workplaces and forums.
 
 home_hero_img: home/background.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
-blog_hero_img: blog/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+blog_hero_img: news/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@hamsoftug.com # email for form submission
 
@@ -65,7 +65,7 @@ exclude:
   - gulpfile.js
 
 include: ['_pages']
-permalink: /blog/:title/
+permalink: /news/:title/
 
 compress_html:
   clippings: all
