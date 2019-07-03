@@ -17,9 +17,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/blog'}
   - {name: 'Blog', link: '/blog'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Geo IP', link: '/geoip'}
+  - {name: 'CashBook', link: '/cashflow'}
 
 home_title: Hi! there ,Welcome aboard
 tagline: >
