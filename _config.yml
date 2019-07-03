@@ -2,7 +2,7 @@ title: Hamsoft Uganda
 author: Hamsoft Uganda
 description: > # Meta description of Homepage
   Hey there! Since 2013, Hamsoft Uganda has been providing Information Technology (IT), business software, web and mobile development services to organizations of all.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/news" # the subpath of your site, e.g. /blog
 url: "https://blog.hamsoftug.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
