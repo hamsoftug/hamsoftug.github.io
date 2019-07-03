@@ -2,7 +2,7 @@ title: Hamsoft Uganda
 author: Hamsoft Uganda
 description: > # Meta description of Homepage
   Hey there! Since 2013, Hamsoft Uganda has been providing Information Technology (IT), business software, web and mobile development services to organizations of all.
-baseurl: "/news" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.hamsoftug.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -18,7 +18,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/blog'}
-  - {name: 'Blog', link: '/news'}
+  - {name: 'Blog', link: '/blog'}
   - {name: 'Contact', link: '/contact'}
 
 home_title: Hi! there ,Welcome aboard
@@ -30,7 +30,7 @@ blog_tagline: >
    This blog is mainly focused on the day to day discoveries at workplaces and forums.
 
 home_hero_img: home/background.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
-blog_hero_img: news/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+blog_hero_img: blog/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@hamsoftug.com # email for form submission
 
@@ -65,7 +65,7 @@ exclude:
   - gulpfile.js
 
 include: ['_pages']
-permalink: /news/:title/
+permalink: /blog/:title/
 
 compress_html:
   clippings: all
