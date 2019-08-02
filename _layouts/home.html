@@ -19,20 +19,19 @@ layout: compress
 
     {% include header.html %}
 
-    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.home_hero_img }}" style="min-height: 35rem;">
-      <div class="hero__wrap">
-        <h1 class="hero__title">{{ site.home_title | escape }}</h1>
-        <p class="hero__meta"> I'm interested in data science, machine learning and start-ups.</p>
-        <p class="hero__meta">Here you can find out more <a href="{{ site.url }}{{ site.baseurl }}/about-me">about me</a> or read my <a href="{{ site.url }}{{ site.baseurl }}/blog">data science blog</a>.</p>
-        
-      </div>
-    </div>
 
 
     <main class="site__content">
-      <section class="">
+      <section class="blog">
         <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
+            {% for post in site.posts %}
+            {% include card.html %}
+            {% endfor %}
+
+            <!-- {% include pagination.html %} -->
+          </div>
         </div>
       </section>
     </main>
