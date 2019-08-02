@@ -18,7 +18,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: 'https://hamsoftug.com'}
-  - {name: 'Blog', link: '/blog'}
+  - {name: 'Blog', link: '/'}
   - {name: 'Geo IP', link: '/geoip'}
   - {name: 'CashBook', link: '/cashflow'}
 
