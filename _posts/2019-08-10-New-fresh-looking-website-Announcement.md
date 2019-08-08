@@ -5,7 +5,7 @@ featured-img: art-color-design-891030
 summary: # Our goal with this new website is to provide our visitors an easier way to learn about Hamsoft's services and solutions and also to allow the visitor to browse information based on their own choice. !
 categories: [New,website,Clients, announcement]
 ---
-We are pleased to announce the launch of our brand new website ! After two months of hard work and dedication, we are delighted to officially announce the launch. The new site launch is available and the URL is www.hamsoftug.com
+We are pleased to announce the launch of our brand new website ! After two months of hard work and dedication, we are delighted to officially announce the launch. The new site launch is available and the URL is [www.hamsoftug.com](www.hamsoftug.com)
 
 Our goal with this new website is to provide our visitors an easier way to learn about Hamsoft’s services and solutions and also to allow the visitor to browse information based on their own choice.
 
@@ -20,13 +20,13 @@ Amongst the new features the site contains integrated social media buttons for F
 We hope you find the new website with a fresh look, easy to access information and we also wish to establish this portal as a source of information for those who visit our site.
 ![Fresh water-Freshness - Brings new feel](https://blog.hamsoftug.com/assets/img/posts_contents/fresh-water.jpg "Fresh water-Freshnesss")
 
-####Conclusion 
+### Conclusion 
 We are excited for the upcoming launch on 18th August 2019 see you there! 
 
 You can take a sneek peak here :
 -   New Website: [Click here to see 😊](https://new.hamsoftug.com/)
--   Careers/Jobs: [Click hereCareers 😊](https://hr.hamsoftug.com/frontend)
+-   Careers/Jobs: [Click here for Careers 😊](https://hr.hamsoftug.com/frontend)
 
--   Email Marketing Solution: [Email Marketing Solution](https://marketing.hamsoftug.com/subscriptions/select-plan)
+-   Email Marketing Solution: [For Email Marketing Solution](https://marketing.hamsoftug.com/subscriptions/select-plan)
 
 
