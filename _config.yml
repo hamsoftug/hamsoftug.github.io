@@ -14,6 +14,8 @@ twitter:
   image: /assets/img/posts/mx.jpg
   description: We develop and distribute computer software that can be used to learn, instruct, assess, calculate, entertain, or perform a multitude of tasks.
   title: Blog Hamsoft Uganda
+  domain: https://blog.hamsoftug.com
+
 # SEO PLUGIN
 social:
   name: Hamsoft Uganda
@@ -93,3 +95,5 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+gems:
+  - jekyll-last-modified-at
