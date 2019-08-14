@@ -29,7 +29,8 @@ defaults:
       path: ""
     values:
       image: /images/logo.png
-      author: cloudsh
+      author: hamsoftuganda
+
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: 'https://hamsoftug.com'}
