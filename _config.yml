@@ -1,10 +1,16 @@
 title: Hamsoft Uganda
 author: Hamsoft Uganda
+  twitter: hamsoftuganda
 description: > # Meta description of Homepage
   Hey there! Since 2013, Hamsoft Uganda has been providing Information Technology (IT), business software, web and mobile development services to organizations of all.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.hamsoftug.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+logo: /images/logo.png
+
+twitter:
+  username: @hamsoftuganda
+  card: summary_large_image
 # SEO PLUGIN
 social:
   name: Hamsoft Uganda
@@ -15,6 +21,15 @@ social:
     - https://github.com/hamsoftug
     - https://www.kaggle.com/hamsoftug
 
+
+
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo.png
+      author: cloudsh
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: 'https://hamsoftug.com'}

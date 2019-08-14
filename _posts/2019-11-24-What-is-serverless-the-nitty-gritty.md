@@ -2,6 +2,11 @@
 layout: post
 title: What is serverless
 featured-img: data-science
+twitter:
+    domain:https://hamsoftug.com
+    title: What is Serverless Architecture? the nitty gritty!
+    description:The name "serverless computing" is used because the server management and capacity plan
+    
 summary: # What is Serverless Architecture? the nitty gritty!
 categories: [Technology]
 ---
