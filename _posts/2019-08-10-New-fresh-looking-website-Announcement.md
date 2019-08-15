@@ -5,7 +5,7 @@ featured-img: art-color-design-891030
 summary: # Our goal with this new website is to provide our visitors an easier way to learn about Hamsoft's services and solutions and also to allow the visitor to browse information based on their own choice. !
 categories: [New,website,Clients, announcement]
 ---
-We are pleased to announce the launch of our brand new website ! After two months of hard work and dedication, we are delighted to officially announce the launch. The new site launch is available and the URL is [www.hamsoftug.com](https://www.hamsoftug.com)
+We are pleased to announce the launch of our brand new website ! After two months of hard work and dedication, we are delighted to officially announce the launch. The new site launch is available and the URL is [www.hamsoftug.com](https://hamsoftug.com)
 
 Our goal with this new website is to provide our visitors an easier way to learn about Hamsoft’s services and solutions and also to allow the visitor to browse information based on their own choice.
 
