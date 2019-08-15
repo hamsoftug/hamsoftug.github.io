@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+    <url>
+        <loc>https://blog.hamsoftug.com/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/categories/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/What-is-serverless-the-nitty-gritty/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/New-fresh-looking-website-Announcement/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/How-is-software-made/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/Social-Network-Heroes/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/Marketing-Mix-for-Startups/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/how-to-use-barcode-generator-and-scanner/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://blog.hamsoftug.com/blog/Using-Geo-IP-and-server-to-determine-website-ownership-and-location/</loc>
+        <lastmod>2019-08-15T08:27:23+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+
+</urlset>
