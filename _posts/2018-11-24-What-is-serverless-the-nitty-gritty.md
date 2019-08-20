@@ -2,11 +2,6 @@
 layout: post
 title: What is serverless
 featured-img: data-science
-twitter:
-    domain: https://hamsoftug.com
-    title: What is Serverless Architecture? the nitty gritty!
-    description: The name "serverless computing" is used because the server management and capacity plan
-    
 summary: # What is Serverless Architecture? the nitty gritty!
 categories: [Technology]
 ---
@@ -68,4 +63,4 @@ Aside from optimizing your functions, you can use simple tricks like a separate 
 Now that we have a good idea of serverless computing, let’s take a deeper look at what is a Lambda function and how your code is going to be executed.
 
 ### Conclusion  
-i reccommend you trying all available platforms from lamba , azure and firebase to get a better understanding of how it works.
+i encourage you to try out different  available platforms such as nowjs,lamba , azure,github pages, and firebase to get a better understanding of how it works.
