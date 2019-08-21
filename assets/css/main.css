@@ -459,7 +459,7 @@ pre > code {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 20%;
+    height: 100%;
     overflow: hidden;
     padding: 19px 0;
     margin-right: 1.25rem;
@@ -474,7 +474,7 @@ pre > code {
 }
 
 .header__logo .header__logo--container {
-    width: 50px
+    width: 150px
 }
 
 .header__logo .header__logo--container .logo {
@@ -636,13 +636,7 @@ pre > code {
     }
 
     .header__link_active:active {
-        -webkit-transform: scaleX(1);
-        transform: scaleX(1);
-        color: #0f4c9c;
-        -webkit-transition: -webkit-transform .2s ease-in-out;
-        transition: -webkit-transform .2s ease-in-out;
-        transition: transform .2s ease-in-out;
-        transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out
+        /*color: #0f4c9c;*/
     }
 
 
