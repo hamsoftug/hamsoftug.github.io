@@ -3,6 +3,7 @@ layout: post
 title: How is Software made ?
 featured-img: process
 image: /assets/img/posts/process.jpg
+logo: /assets/img/posts/process.jpg
 summary: # A tour of the Hamsoft Uganda software factory production line!
 categories: [Technology,Software, Scrum,Design, Development, Agile]
 ---
