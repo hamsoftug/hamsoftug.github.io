@@ -636,7 +636,13 @@ pre > code {
     }
 
     .header__link_active:active {
-        color: #0f4c9c
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1);
+        color: #0f4c9c;
+        -webkit-transition: -webkit-transform .2s ease-in-out;
+        transition: -webkit-transform .2s ease-in-out;
+        transition: transform .2s ease-in-out;
+        transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out
     }
 
     .header__link:hover::after, .header__link :active::after, .header__link :focus::after {
