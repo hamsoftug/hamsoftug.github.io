@@ -16,6 +16,7 @@ twitter:
   title: Blog Hamsoft Uganda
   domain: https://blog.hamsoftug.com
 
+
 # SEO PLUGIN
 social:
   name: Hamsoft Uganda
@@ -39,9 +40,12 @@ defaults:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: 'https://hamsoftug.com'}
+  - {name: 'About', link: 'https://hamsoftug.com/about'}
+  - {name: 'Services', link: 'https://hamsoftug.com/services'}
+  - {name: 'Portfolio', link: 'https://hamsoftug.com/portfolio'}
+  - {name: 'Contact us', link: 'https://hamsoftug.com/contact'}
+  - {name: 'Custom Quote', link: 'https://hamsoftug.com/quote'}
   - {name: 'Blog', link: '/'}
-  - {name: 'Geo IP', link: '/geoip'}
-  - {name: 'CashBook', link: '/cashflow'}
 
 home_title: Hi! there ,Welcome aboard
 tagline: >
