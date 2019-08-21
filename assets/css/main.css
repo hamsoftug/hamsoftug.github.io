@@ -635,9 +635,9 @@ pre > code {
         color: #0f4c9c;
     }
 
-    .header__link_active:active {
-        /*color: #0f4c9c;*/
-    }
+    /*.header__link_active:active {*/
+    /*    color: #0f4c9c;*/
+    /*}*/
 
 
 
