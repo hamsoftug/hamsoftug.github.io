@@ -474,7 +474,7 @@ pre > code {
 }
 
 .header__logo .header__logo--container {
-    width: 150px
+    width: 150px;
 }
 
 .header__logo .header__logo--container .logo {
