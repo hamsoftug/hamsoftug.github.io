@@ -9,7 +9,7 @@
       <nav class="header__links">
         <div class="container header__links-wrapper">
           {% for item in site.navigation %}
-            {% if item.name == Blog %}
+            {% if item.name == 'Blog' %}
           <a class="header__link_active" href="{{ item.link | relative_url }}" itemprop="url">
 
             <span itemprop="name">{{ item.name }}</span>
@@ -20,7 +20,7 @@
 
               <span itemprop="name">{{ item.name }}</span>
             </a>
-          {% endelse %}
+          {% endif %}
           {% endfor %}
 
         </div>
