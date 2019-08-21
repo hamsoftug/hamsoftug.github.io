@@ -632,7 +632,7 @@ pre > code {
     }
 
     .header__link:hover {
-        color: #0f4c9c
+        color: #0f4c9c;
     }
 
     .header__link_active:active {
@@ -644,6 +644,10 @@ pre > code {
         transition: transform .2s ease-in-out;
         transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out
     }
+
+
+
+
 
     .header__link:hover::after, .header__link :active::after, .header__link :focus::after {
         -webkit-transform: scaleX(1);
