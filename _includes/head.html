@@ -9,7 +9,7 @@
 
   <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <!-- <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"> -->
-  <meta name="twitter:image" content="{% if page.twitterimage %} {{site.url}}{{'/'}}{{ page.twitterimage }}{% else %}{{ site.image }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.twitterimage %} {{ site.url }}{{ page.twitterimage }}{% else %}{{ site.image }}{% endif %}">
 
   <meta name="target"                                 content="all"/>
   <meta name="audience"                               content="all"/>

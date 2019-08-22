@@ -3,6 +3,7 @@ layout: post
 title: Geo IP & Server (Dns lookups,whois ,Network tools)
 featured-img: geo-ip
 twitterimage: /assets/img/posts/geo-ip.jpg
+image: /assets/img/posts/geo-ip.jpg
 summary: # Displays the DNS information critical for identifying who is hosting a particular domain name or website .
 categories: [Technology,Android,Networks]
 ---
