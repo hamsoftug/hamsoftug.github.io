@@ -2,6 +2,7 @@
 layout: post
 title: Geo IP & Server (Dns lookups,whois ,Network tools)
 featured-img: geo-ip
+data-science
 summary: # Displays the DNS information critical for identifying who is hosting a particular domain name or website .
 categories: [Technology,Android,Networks]
 ---

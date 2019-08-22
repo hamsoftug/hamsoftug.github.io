@@ -2,6 +2,7 @@
 layout: post
 title: Marketing Mix for Startups
 featured-img: mx
+twitterimage: /assets/img/posts/mx.jpg
 summary: # Hamsoft Uganda with Masters Students of Economics from the Stockholm School of Economics Sweden. !
 categories: [Technology,Startup, Marketing,Business,digital marketing]
 ---

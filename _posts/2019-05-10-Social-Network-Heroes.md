@@ -2,6 +2,7 @@
 layout: post
 title: Social Network Heroes 
 featured-img: network-heroes
+twitterimage: /assets/img/posts/network-heroes.jpg
 summary: # Social Network Heroes Challenge !
 categories: [Technology,Challenge,Coding, Contest]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: How to use barcode generator and scanner 
 featured-img: data-science
+twitterimage: /assets/img/posts/data-science.jpg
 summary: # A quick walkthrough on how you can genrate codes for your products and organize them for sales.
 categories: [Technology]
 ---

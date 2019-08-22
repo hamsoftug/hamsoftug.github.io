@@ -2,6 +2,7 @@
 layout: post
 title: Announcing the launch of our new website  
 featured-img: art-color-design-891030
+twitterimage: /assets/img/posts/art-color-design-891030.jpg
 summary: # Our goal with this new website is to provide our visitors an easier way to learn about Hamsoft's services and solutions and also to allow the visitor to browse information based on their own choice. !
 categories: [New,website,Clients, announcement]
 ---
