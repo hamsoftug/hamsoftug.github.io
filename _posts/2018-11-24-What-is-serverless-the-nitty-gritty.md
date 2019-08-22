@@ -3,6 +3,7 @@ layout: post
 title: What is serverless
 featured-img: data-science
 twitterimage: /assets/img/posts/data-science.jpg
+image: /assets/img/posts/data-science.jpg
 summary: # What is Serverless Architecture? the nitty gritty!
 categories: [Technology]
 ---
