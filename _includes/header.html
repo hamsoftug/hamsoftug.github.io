@@ -10,7 +10,7 @@
         <div class="container header__links-wrapper">
           {% for item in site.navigation %}
             {% if item.name == 'Blog' %}
-          <a class="header__link active" href="{{ item.link | relative_url }}" itemprop="url">
+          <a class="header__link_active_" href="{{ item.link | relative_url }}" itemprop="url">
 
             <span itemprop="name">{{ item.name }}</span>
           </a>
