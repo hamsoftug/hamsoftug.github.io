@@ -16,6 +16,7 @@ The competition took place on Fri, 10th May with focus on Germany and Africa. Th
 We’re already looking forward to our next international event: the 32nd CCC with many locations around the world. Save the date on 8th November 2019! Registrations will open soon. If you want to host a CCC in your location, get in touch with us!
 
 Take a look at the picture
+2020 Contest is also around the corner
 
 ####Conclusion 
 We are excited for th upcoming contest on 8th November 2019 see you there! 
