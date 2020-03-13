@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How is Software made ?
+title: TutorView mobile app is finally here!
 featured-img: tv
 twitterimage: /assets/img/posts/tv.jpg
 image: /assets/img/posts/tv.jpg
