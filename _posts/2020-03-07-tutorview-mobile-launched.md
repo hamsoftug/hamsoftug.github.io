@@ -1,15 +1,15 @@
 ---
 layout: post
 title: How is Software made ?
-featured-img: process
-twitterimage: /assets/img/posts/process.jpg
-image: /assets/img/posts/process.jpg
-summary: # CI/CD Together, these tools increase code quality, reduce development time, easily reveal errors and will generally make your life easier.
-categories: [Technology,Software, Scrum,Design, Development, Agile]
+featured-img: tv
+twitterimage: /assets/img/posts/tv.jpg
+image: /assets/img/posts/tv.jpg
+summary: # TutorView mobile is finally here.
+categories: [Announcement, learning, education]
 keywords:
-  - continuous integration
-  - continous deployment 
-  - CI/CD
+  - e-learning
+  - past papers 
+  - learning mobile app
 ---
 
 

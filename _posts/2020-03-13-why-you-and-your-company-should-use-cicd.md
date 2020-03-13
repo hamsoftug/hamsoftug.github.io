@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here is why your company should use CICD in 
-featured-img: cdcd
+featured-img: cicd
 twitterimage: /assets/img/posts/cicd.jpg
 image: /assets/img/posts/cicd.jpg
 summary: # CI/CD Together, these tools increase code quality, reduce development time, easily reveal errors and will generally make your life easier.
