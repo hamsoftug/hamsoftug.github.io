@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is why your company should use CICD in 
+title: Here is why your company should use CICD in your workflow.
 featured-img: cicd
 twitterimage: /assets/img/posts/cicd.jpg
 image: /assets/img/posts/cicd.jpg
@@ -14,7 +14,8 @@ keywords:
 
 ### Why do I need CI/CD ?
 
-You and I remember that Friday morning when you  checked out master to see what was in there , then you forgot to switch back to your development branch.  You embarked on your days task,  worked the whole day writing code nd as  evening approached you realized that the feature couldn't be completed that day and so you didn't see the need to write tests for an incomplete feature ,  you committed , pushed and closed your laptop and headed for home.
+You and I remember that Friday morning when you  checked out master to see what was in there , then you forgot to
+ switch back to your development branch.  You embarked on your day's task,  worked the whole day writing code and as  evening approached you realized that the feature couldn't be completed that day and so you didn't see the need to write tests for an incomplete feature ,  you committed , pushed and closed your laptop and headed for home.
 
  With the only thing in mind being to go home,  your memory couldn't serve you well to remind you that the whole day you had been working and even pushed  code directly to master. 
 
@@ -30,9 +31,17 @@ Ohhh snap it dawns on you that you actually pushed unfinished code into master .
 
 #### How would CI/CD have saved me ?
 
-Allow me to quickly to take this out of the way by saying that CI/CD together increase code quality, reduce development time, easily reveal errors and will generally make your life easier.
+Okay i know you want me to answer that question right away , But first allow me to quickly to take this out of the
+ way by saying that CI/CD together increase code quality, reduce development time, easily reveal errors and will generally make your life easier.
 
-Okay so to address the question at  hand here is how 
+Okay so to address the question at  hand here is how.
+1. With CICD ,You can create a pipeline/action (depending on your repository store) , you can use this to run tests on
+ all code that is pushed to a particular branch. in such a file you can configure checks for syntax errors,indenting,spacing and any other coding standard.
+ So if the code pushed by a colleague doesn't pass any of the tests set , it wont be merged to the main codebase and
+  therefore it wont hurt anyone on the team . 
+  
+Furthermore , when push fails to merge, an email is sent to the person who pushed indicating which areas of their
+ code doesn't meet the set standards of the company so that they can address them before their changes are merged. 
 
 Now that you have learned from experience you can now proceed to the technical aspects of what really CI/CD is.
 
@@ -60,6 +69,6 @@ Continuous deployment is an excellent way to accelerate the feedback loop with y
 
 ### Final thoughts
 
-To put it simply ,if you wan to ship software as a pro and "write silicon valley grade code"(is there anything like this?) then you are too late to start using ci/cd in your workflows. use some of the available solutions such as GitHub actions,Bitbucket pipeline etc..
+To put it simply ,if you wan to ship software as a pro and "write silicon valley grade code"(is there anything like this?) then you are too late to start using ci/cd in your workflows. use some of the available solutions such as GitHub actions,Bitbucket pipeline etc.
 
 ![](https://blog.hamsoftug.com/assets/img/posts_contents/thats-all-folks.jpg)
